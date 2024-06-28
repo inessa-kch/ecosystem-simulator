@@ -11,7 +11,7 @@ Pour installer et exécuter le simulateur d'écosystème, suivez ces étapes :
 
 1. Clonez le dépôt sur votre machine locale :
     ```sh
-    git clone https://github.com/inessthemess/ecosystem-simulator.git
+    git clone https://github.com/inessa-kk/ecosystem-simulator.git
     ```
 
 2. Naviguez dans le répertoire du projet :
